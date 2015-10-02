@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "17e8a704b70d485e1d401258b0c88147",
-    "content-hash": "15943478bd93aacdddefadbd498fd43c",
+    "hash": "3535c9bc445f8ff6a673cd1798f59680",
+    "content-hash": "8962ca4b827c1a6051af2206ece41f22",
     "packages": [
         {
             "name": "peekmo/jsonpath",
